@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Content Source Code"
+    url: https://github.com/annegentle/summit-example/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Automation Source Code"
+    url: https://github.com/annegentle/ansible-jekyll/
