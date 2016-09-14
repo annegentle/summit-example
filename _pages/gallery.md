@@ -9,4 +9,5 @@ permalink: /gallery.html
 Here are some example photos.
 
 
-<div id="gallery"></div>
+<div id="gallery">
+</div>
