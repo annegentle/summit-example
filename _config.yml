@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Summit Photo Excursion"
 title_separator          : "-"
 name                     : "Anne Gentle"
-description              : "A journey through a dozen summits in photos."
+description              : "A journey through past summits in photos."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
