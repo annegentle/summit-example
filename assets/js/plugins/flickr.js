@@ -6,7 +6,7 @@
 	Flickr.prototype = {
 		init: function() {
 			this.user = "71034808@N00"; // Flickr user ID
-			this.album = "72157637497471754"; // Album/set's ID
+			this.album = "72157629849504147"; // Album/set's ID
 			
 			
 			window.getPhotos = this.getPhotos; // Our method as a property of window, i.e. global
